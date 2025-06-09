@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-# 💫 About Me:
 Hi, I’m Nidhi — a Computer Science and Engineering student interested in AI, Cybersecurity, and systems that have real-world impact. I’m particularly curious about how intelligent and secure technologies can be applied to things like smart power grids and critical infrastructure.<br><br>I like building things that work, exploring ideas through research, and solving problems that aren’t always straightforward. Lately, I’ve been looking into how AI and ML can be applied in energy systems, with some focus on security in physical environments.<br><br>I enjoy working with people who bring new ideas, solid tech skills, and aren’t afraid to try something different. Hackathons and challenges are something I genuinely enjoy — especially when they make me think harder and build better.
 
 
